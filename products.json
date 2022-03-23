@@ -1,0 +1,484 @@
+[
+    {
+        "id": 1,
+        "product_name": "Revamp your home in styles",
+        "category": "",
+        "category_id": 1,
+        "Price": ,
+        "Size": "",
+        "Image": "",
+        "Color": "",
+        "Brand": ""
+    },
+    {
+        "id": 2,
+        "product_name": "Revamp your home in styles",
+        "category": "",
+        "category_id": 1,
+        "Price": ,
+        "Size": "",
+        "Image": "",
+        "Color": "",
+        "Brand": ""
+    },
+    {
+        "id": 3,
+        "product_name": "Revamp your home in styles",
+        "category": "",
+        "category_id": 1,
+        "Price": ,
+        "Image": "", 
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 4,
+        "product_name": "Revamp your home in styles",
+        "category": "",
+        "category_id": 1,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 5,
+        "product_name": "Mobiles",
+        "category": "",
+        "category_id": 2,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 6,
+        "product_name": "Mobiles",
+        "category": "",
+        "category_id": 2,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 7,
+        "product_name": "Mobiles",
+        "category": "",
+        "category_id": 2,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 8,
+        "product_name": "Mobiles",
+        "category": "",
+        "category_id": 2,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 9,
+        "product_name": "Electronics",
+        "category": "",
+        "category_id": 3,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 10,
+        "product_name": "Electronics",
+        "category": "",
+        "category_id": 3,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 11,
+        "product_name": "Electronics",
+        "category": "",
+        "category_id": 3,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 12,
+        "product_name": "Electronics",
+        "category": "",
+        "category_id": 3,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 13,
+        "product_name": "Furnitures",
+        "category": "",
+        "category_id": 4,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 14,
+        "product_name": "Furnitures",
+        "category": "",
+        "category_id": 4,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 15,
+        "product_name": "Furnitures",
+        "category": "",
+        "category_id": 4,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 16,
+        "product_name": "Furnitures",
+        "category": "",
+        "category_id": 4,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 17,
+        "product_name": "Groceries",
+        "category": "",
+        "category_id": 5,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 18,
+        "product_name": "Groceries",
+        "category": "",
+        "category_id": 5,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 19,
+        "product_name": "Groceries",
+        "category": "",
+        "category_id": 5,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 20,
+        "product_name": "Groceries",
+        "category": "",
+        "category_id": 5,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 21,
+        "product_name": "Cosmetics",
+        "category": "",
+        "category_id": 6,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 22,
+        "product_name": "Cosmetics",
+        "category": "",
+        "category_id": 6,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 23,
+        "product_name": "Cosmetics",
+        "category": "",
+        "category_id": 6,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 24,
+        "product_name": "Cosmetics",
+        "category": "",
+        "category_id": 6,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 25,
+        "product_name": "Accessories",
+        "category": "",
+        "category_id": 7,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 26,
+        "product_name": "Accessories",
+        "category": "",
+        "category_id": 7,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 27,
+        "product_name": "Accessories",
+        "category": "",
+        "category_id": 7,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 28,
+        "product_name": "Accessories",
+        "category": "",
+        "category_id": 7,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 29,
+        "product_name": "Watch",
+        "category": "",
+        "category_id": 8,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 30,
+        "product_name": "Watch",
+        "category": "",
+        "category_id": 8,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 31,
+        "product_name": "Watch",
+        "category": "",
+        "category_id": 8,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 32,
+        "product_name": "Watch",
+        "category": "",
+        "category_id": 8,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 33,
+        "product_name": "lighting decoration",
+        "category": "",
+        "category_id": 9,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 34,
+        "product_name": "lighting decoration",
+        "category": "",
+        "category_id": 9,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 35,
+        "product_name": "lighting decoration",
+        "category": "",
+        "category_id": 9,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 36,
+        "product_name": "lighting decoration",
+        "category": "",
+        "category_id": 9,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 37,
+        "product_name": "Books",
+        "category": "",
+        "category_id": 10,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 38,
+        "product_name": "Books",
+        "category": "",
+        "category_id": 10,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 39,
+        "product_name": "Books",
+        "category": "",
+        "category_id": 10,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 40,
+        "product_name": "Books",
+        "category": "",
+        "category_id": 10,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 41,
+        "product_name": "Garments",
+        "category": "",
+        "category_id": 11,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 42,
+        "product_name": "Garments",
+        "category": "",
+        "category_id": 11,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 43,
+        "product_name": "Garments",
+        "category": "",
+        "category_id": 11,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 44,
+        "product_name": "Garments",
+        "category": "",
+        "category_id": 11,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 45,
+        "product_name": "Baby kits & toys",
+        "category": "",
+        "category_id": 12,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 46,
+        "product_name": "Baby kits & toys",
+        "category": "",
+        "category_id": 12,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 47,
+        "product_name": "Baby kits & toys",
+        "category": "",
+        "category_id": 12,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+    {
+        "id": 48,
+        "product_name": "Baby kits & toys",
+        "category": "",
+        "category_id": 12,
+        "Price": ,
+        "Image":"",
+        "Color": "",
+        "company": ""
+    },
+]
